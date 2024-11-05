@@ -65,7 +65,6 @@ body {
 .cartao.active .cartao__conteudo {
     transform: rotateY(180deg);
 }
-
 .cartao__conteudo__pergunta,
 .cartao__conteudo__resposta {
     backface-visibility: hidden;
@@ -74,6 +73,7 @@ body {
     width: 100%;
     box-sizing: border-box;
 }
+
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
