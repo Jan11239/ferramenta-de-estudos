@@ -1,0 +1,23 @@
+criaCartao(
+    '',
+    '',
+    ''
+)
+
+criaCartao(
+    '',
+    '',
+    ''
+)
+
+criaCartao(
+    '',
+    '',
+    ''
+)
+
+criaCartao(
+    '',
+    '',
+    ''
+)
