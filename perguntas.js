@@ -13,12 +13,12 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Qual a capital da Franca?',
-    'a capital da Franca?'
+    'a capital da França é Paris'
 )
 
 criaCartao(
     'Matematica',
-    'Qaul o valor de PI',
+    'Qaul o valor de PI?',
     'O valor de PI é 3,14'
 )
 
